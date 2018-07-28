@@ -10,7 +10,7 @@
 
 下载本页面的 [CORE Keygen.app](https://github.com/lhajh/Alfred-Powerpack/archive/master.zip)
 
-双击打开 `CORE Keygen.app`, 点击 `path`, 在弹出框选择 `Alfred`, 如下图:
+双击打开 `CORE Keygen.app`, 点击 `path`, 在弹出框选择 `Alfred`, 如下图:
 
 ![](1375938-88a9e9a4c0c798df.jpeg)
 
