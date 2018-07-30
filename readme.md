@@ -37,5 +37,4 @@
     成功返回:
     ```
     /Applications/Alfred 3.app/Contents/Frameworks/Alfred Framework.framework/Versions/A/Alfred Framework: replacing existing signature
-
     ```
