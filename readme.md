@@ -24,4 +24,17 @@
 
 ![](1375938-e6d5dcb3de059cb7.jpeg)
 
-**如果激活成功后仍无法正常使用 `Workflow`, 请重启电脑**
+## 注意事项
+
+1. 如果激活成功后仍无法正常使用 `Workflow`, 请重启电脑
+
+2. Alfred 3 启动后，都会提示 "Alfred 3 想访问您的通讯录" 弹窗问题
+    打开终端, 输入一下命令:
+    ```
+    sudo codesign -f -d -s - /Applications/Alfred\ 3.app/Contents/Frameworks/Alfred\ Framework.framework/Versions/A/Alfred\ Framework
+    ```
+    成功返回:
+    ```
+    /Applications/Alfred 3.app/Contents/Frameworks/Alfred Framework.framework/Versions/A/Alfred Framework: replacing existing signature
+
+    ```
