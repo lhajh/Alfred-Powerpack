@@ -28,7 +28,7 @@
 
 1. 如果激活成功后仍无法正常使用 `Workflow`, 请重启电脑
 
-2. Alfred 3 启动后，都会提示 "Alfred 3 想访问您的通讯录" 弹窗问题
+2. `Alfred 3` 启动后，都会提示 "Alfred 3 想访问您的通讯录" 弹窗问题
 
     打开终端, 输入以下命令:
     ```
@@ -38,3 +38,5 @@
     ```
     /Applications/Alfred 3.app/Contents/Frameworks/Alfred Framework.framework/Versions/A/Alfred Framework: replacing existing signature
     ```
+
+3. 读我文件夹里是如何安装任意来源的软件, 与 `Alfred` 无关
