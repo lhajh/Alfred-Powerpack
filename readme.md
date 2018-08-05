@@ -39,4 +39,4 @@
     /Applications/Alfred 3.app/Contents/Frameworks/Alfred Framework.framework/Versions/A/Alfred Framework: replacing existing signature
     ```
 
-3. 读我文件夹里是如何安装任意来源的软件, 与 `Alfred` 无关
+3. `读我` 文件夹里是如何安装任意来源的软件, 与 `Alfred` 无关
